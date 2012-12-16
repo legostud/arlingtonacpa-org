@@ -30,7 +30,7 @@
 <br />
 Website designed by: <a href="http://www.leedscarroll.com/" target="_blank">Marion Leeds Carroll</a><br />
 	Website bulit and hosted by:
-<a href="http://www.dallasdesigns.org" target="_blank">Dallas Designs</a></p>
+<a href="http://www.jonathandallas.com" target="_blank">Jonathan Dallas</a></p>
 </div>
 	</div>
 </div>
