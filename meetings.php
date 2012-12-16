@@ -20,21 +20,21 @@
       (main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please 
       note that meetings marked with an asterisk will be held at an alternate location. 
       Please mark your calendar!<br />
-      <h3>2012 Meeting Schedule:</h3>
-      <p>January 13th - PainACTION Website Creators will speak about topics covered on the site; we will discuss how selected topics can be helpful to people with pain. </p>
-      <p>February 10th</p>
-      <p>March 9th</p>
-      <p>April 13th</p>
-      <p>May 11th</p>
-	  <p>June 8th</p>
-      <p>July 13th</p>
-	  <p>August 10th</p>
-      <p>September 14th *</p>
-	  <p>October 12th</p>
-	  <p>November 9th</p>
-      <p>December 14th</p>
-      <p class="finePrint">* Meeting at Jefferson Cutter House, Arlington Center, corner of Mystic Street and Mass Ave, rear entrance</p>
-      <p class="finePrint">** Meeting will be held at Sunrise Assisted Living in Arlington Heights at 1395 Mass Ave, Arlington, MA in the Activity Room; there is a large free parking lot on the premises.</p>
+      <h3>2013 Meeting Schedule:</h3>
+      <p>January 11th</p>
+      <p>February 8th</p>
+      <p>March 8th*</p>
+      <p>April 12th</p>
+      <p>May 10th</p>
+	  <p>June 14th</p>
+      <p>July 12th</p>
+	  <p>August 9th</p>
+      <p>September 13th *</p>
+	  <p>October 11th</p>
+	  <p>November 8th</p>
+      <p>December 13th</p>
+      <p class="finePrint">* Meetings will be held at an alternate location in
+Arlington</p>
     </div>
 	</div>
 </div>
