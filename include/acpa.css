@@ -1,0 +1,86 @@
+/* CSS Document */
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	background-color: #FCFAF3;
+}
+H3 {
+	font-size: 1.1em;
+	font-weight: normal;
+	font-style: oblique;
+	color: #75603C;
+}
+#background {
+	position:absolute;
+	top:15px;
+	left:30px;
+	width:800px;
+	background-color:#C67A2F;
+	float:left;
+	clear:both;
+}
+#mainText {
+	width:600px;
+	min-height:300px;
+	margin-top:100px;
+	background-color:white;
+	float:right;
+}
+.finePrint {
+	font-size: 0.7em;
+}
+#subtitle {
+	width:100%;
+	margin-bottom:1em;
+	padding-bottom:0.25em;
+	font-size: 1.3em;
+	font-weight: normal;
+	text-indent:50px;
+	color:#75603C;
+	background-color: #EEEEEE;
+}
+#content {
+	padding: 0px 5px 5px 50px;
+}
+a:link { color: #336699; }
+a:visited { color: #6699CC; }
+a:hover { color: #C67A2F; }
+
+/*--Navigation sytle --*/
+#nv_logo {
+	position:absolute;
+	top:15px;
+	left:30px;
+	width:450px;
+	height:75px;
+	margin:10px;
+	margin-left:20px;
+	padding:5px;
+	background-color: #FCFAF3;
+}
+#nv_chapter {
+	position:absolute;
+	top:70px;
+	left:140px;
+	font-size: small;
+	font-style: italic;
+}
+#nv_sideNav {
+	position: absolute;
+	top:120px;
+	left:50px;
+	color:white;
+	font-size:16px;
+	line-height:28pt;
+}
+#nv_sideNav a { color:white; }
+#nv_sideNav a:link { color:white; }
+#nv_sideNav a:visited { color:white; }
+#nv_sideNav a:hover { color:#FFFFCC; }
+
+#nv_site {
+	width:800px;
+	text-align:right;
+	float:left;
+	clear:both;
+}	
