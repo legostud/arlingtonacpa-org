@@ -23,15 +23,13 @@
       <h3>2013 Meeting Schedule:</h3>
       <p>January 11th</p>
       <p>February 8th</p>
-      <p>March 8th* - meeting will be held at Sunrise Assisted Living at 1395 Mass
-Ave Arlington 02476, Activity Room, 2nd
-floor</p>
+      <p>March 8th* - meeting will be held at Sunrise Assisted Living at 1395 Mass Ave Arlington 02476, Activity Room, 2nd floor</p>
       <p>April 12th</p>
       <p>May 10th</p>
 	  <p>June 14th</p>
       <p>July 12th</p>
-	  <p>August 9th</p>
-      <p>September 13th *</p>
+	  <p>August 9th* - meeting will be held at Sunrise Assisted Living at 1395 Mass Ave Arlington 02476, Activity Room, 2nd floor</p>
+      <p>September 13th* - meeting will be held at Sunrise Assisted Living at 1395 Mass Ave Arlington 02476, Activity Room, 2nd floor</p>
 	  <p>October 11th</p>
 	  <p>November 8th</p>
       <p>December 13th</p>
