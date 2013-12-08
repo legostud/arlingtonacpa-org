@@ -20,20 +20,19 @@
       (main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please 
       note that meetings marked with an asterisk will be held at an alternate location. 
       Please mark your calendar!<br />
-      <h3>2014 Meeting Schedule:</h3>
-      <p>December 13th 2013</p>
-      <p>January 10th</p>
-      <p>February 14th - Judy Foreman, Syndicated Health Columnist will be speaking about her forthcoming book "A Nation In Pain: Healing Our Biggest Health Problem" and signing copies of her book.</p>
-      <p>March 14th</p>
-      <p>April 11th</p>
-      <p>May 9th</p>
-	  	<p>June 13th</p>
-      <p>July 11th</p>
-	  	<p>August 8th</p>
-      <p>September 12th*</p>
-	  	<p>October 10th</p>
-	  	<p>November 14th</p>
-      <p>December 12th</p>
+      <h3>2013 Meeting Schedule:</h3>
+      <p>January 11th</p>
+      <p>February 8th</p>
+      <p>March 8th* - meeting will be held at Sunrise Assisted Living at 1395 Mass Ave Arlington 02476, Activity Room, 2nd floor</p>
+      <p>April 12th</p>
+      <p>May 10th</p>
+	  <p>June 14th</p>
+      <p>July 12th</p>
+	  <p>August 9th* - meeting will be held at Sunrise Assisted Living at 1395 Mass Ave Arlington 02476, Activity Room, 2nd floor</p>
+      <p>September 13th* - meeting will be held at Sunrise Assisted Living at 1395 Mass Ave Arlington 02476, Activity Room, 2nd floor</p>
+	  <p>October 11th</p>
+	  <p>November 8th</p>
+      <p>December 13th</p>
       <p class="finePrint">* Meetings will be held at an alternate location in
 Arlington</p>
     </div>
