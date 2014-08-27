@@ -21,16 +21,17 @@
       note that meetings marked with an asterisk will be held at an alternate location. 
       Please mark your calendar!<br />
       <h3>2014 Meeting Schedule:</h3>
-      <p>December 13th 2013</p>
       <p>January 10th</p>
-      <p>February 14th - Judy Foreman, Syndicated Health Columnist will be speaking about her forthcoming book "A Nation In Pain: Healing Our Biggest Health Problem" and signing copies of her book.</p>
-      <p>March 14th</p>
+      <p>February 14th - cancelled due to weather</p>
+      <p>March 14th - Judy Foreman, Syndicated Health Columnist will be speaking about her forthcoming book "A Nation In Pain: Healing Our Biggest Health Problem" and signing copies of her book.</p>
       <p>April 11th</p>
       <p>May 9th</p>
 	  	<p>June 13th</p>
       <p>July 11th</p>
 	  	<p>August 8th</p>
-      <p>September 12th*</p>
+      <p>September 12th - Please note that this meeting will be held at the
+Sunrise Assisted Living in Arlington at 1395 Massachusetts Ave.  Free
+parking next to the building.</p>
 	  	<p>October 10th</p>
 	  	<p>November 14th</p>
       <p>December 12th</p>
