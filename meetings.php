@@ -20,6 +20,8 @@
       (main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please 
       note that meetings marked with an asterisk will be held at an alternate location. 
       Please mark your calendar!<br />
+	  <h3>2014 Meeting Schedule:</h3>
+	  <p>December 12th</p>
 	  <h3>2015 Meeting Schedule:</h3>
       <p>January 9th</p>
       <p>February 13th</p>
