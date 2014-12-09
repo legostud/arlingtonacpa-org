@@ -33,6 +33,11 @@
 	  	<p>October 10th</p>
 	  	<p>November 14th</p>
       <p>December 12th</p>
+      <h3>2015 Meeting Schedule:</h3>
+	  <p>January 9th</p>
+	  <p>February 13th</p>
+	  <p>March 13th</p>
+	  <p>April 10th</p>
       <p class="finePrint">* this meeting will be held at the
 Sunrise Assisted Living in Arlington at 1395 Massachusetts Ave.  Free
 parking next to the building.</p>
