@@ -16,7 +16,7 @@
 <div id="subtitle">Contact us</div>
 		
     <div id="content"> 
-      <p><em><strong>Group Leader</strong>: Cindy Steinberg, <a href="mailto:leader@arlingtonacpa.org">leader@arlingtonacpa.org</a></em></p>
+      <p><em><strong>Group Leader</strong>: Cindy Steinberg, <a href="mailto:groupleader@arlingtonacpa.org">groupleader@arlingtonacpa.org</a></em></p>
 <p><br />
 <br />
 <br />
