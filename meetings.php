@@ -20,25 +20,20 @@
       (main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please 
       note that meetings marked with an asterisk will be held at an alternate location. 
       Please mark your calendar!<br />
-      <h3>2014 Meeting Schedule:</h3>
-      <!-- <p>January 10th</p>
-      <p>February 14th - cancelled due to weather</p>
-      <p>March 14th - Judy Foreman, Syndicated Health Columnist will be speaking about her forthcoming book "A Nation In Pain: Healing Our Biggest Health Problem" and signing copies of her book.</p>
-      <p>April 11th</p>
-      <p>May 9th</p>
-	  	<p>June 13th</p>
-      <p>July 11th</p>
-	  	<p>August 8th</p> -->
-      <p>September 12th - Guest Speaker - Pharmacist Larry Maida on Therapy Options for Chronic Pain.*</p>
-	  	<p>October 10th</p>
-	  	<p>November 14th</p>
-      <p>December 12th</p>
-      <h3>2015 Meeting Schedule:</h3>
-	  <p>January 9th</p>
-	  <p>February 13th</p>
-	  <p>March 13th</p>
-	  <p>April 10th</p>
-      <p class="finePrint">* this meeting will be held at the
+	  <h3>2015 Meeting Schedule:</h3>
+      <p>January 9th</p>
+      <p>February 13th</p>
+      <p>March 13th</p>
+      <p>April 10th</p>
+      <p>May 8th</p>
+	  <p>June 12th</p>
+      <p>July 10th</p>
+	  <p>August 14th</p>
+      <p>September 11th*</p>
+	  <p>October 9th</p>
+	  <p>November 13th</p>
+      <p>December 11th</p>      
+	  <p class="finePrint">* this meeting will be held at the
 Sunrise Assisted Living in Arlington at 1395 Massachusetts Ave.  Free
 parking next to the building.</p>
     </div>
