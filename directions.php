@@ -47,7 +47,15 @@ salIcon.image = "image/markerBlueS.png";
 markerOptions = { icon:salIcon };
 var salMarker = new GMarker(salHouse,markerOptions);
 var salMessage = "<a href=\"http://www.sunriseseniorliving.com\" target=\"_blank\">Sunrise Assisted Living</a><br />1395 Mass Ave<br />Arlington, MA 02476";
-	
+
+// Arlington Senior Center
+var asCenter = new GLatLng(42.415132, -71.156809);	
+// Create our custom marker icon
+var acIcon = new GIcon(G_DEFAULT_ICON);
+acIcon.image = "image/markerBlueA.png";
+markerOptions = { icon:acIcon };
+var acMarker = new GMarker(asCenter,markerOptions);
+var acMessage = "<a href=\"http://arlingtonseniorsassociation.org\" target=\"_blank\">Arlington Senior Center</a><br />27 Maple Street<br />Arlington, MA 02476";
 
 function load() {
 	if (GBrowserIsCompatible()) {
@@ -74,12 +82,15 @@ function createMarkers(map) {
 	GEvent.addListener(salMarker, "click", function() {
     	map.openInfoWindowHtml(salHouse, salMessage);
   	});
-
+  GEvent.addListener(acMarker, "click", function() {
+      map.openInfoWindowHtml(asCenter, acMessage);
+    });
 	map.addOverlay(robbinsMarker);
 	//map.addOverlay(foxMarker);
-	map.addOverlay(jeffersonMarker);
+	//map.addOverlay(jeffersonMarker);
 	map.addOverlay(salMarker);
-	//show the Robbins libary Info Window by default
+  map.addOverlay(acMarker);	
+  //show the Robbins libary Info Window by default
    //map.openInfoWindowHtml(robbinsLibrary, robbinsMessage);
 }
 
@@ -90,8 +101,8 @@ function createMarkers(map) {
 <link href="include/acpa.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #map {
-	width: 525px; 
-	height: 450px;
+	width: 725px; 
+	height: 650px;
 	clear: both;
 }
 .address {
@@ -119,15 +130,12 @@ function createMarkers(map) {
       	Fox Library</a><br />
         175 Mass Ave<br />
         Arlington, MA 02474</div -->
-      <div class="address"><a href="http://www.town.arlington.ma.us/public_documents/ArlingtonMA_Rental/JeffersonCutterHouse/index" target="_blank">
-      	Jefferson Cutter House</a><br />
-        Mystic St & Mass Ave<br />
-        Rear entrance<br />
+      <div class="address"><a href="http://arlingtonseniorsassociation.org" target="_blank">
+      	Arlington Senior Center</a><br />
+        27 Maple Street<br />
 		Arlington, MA 02476</div>
       <div class="address">
-        <a href="http://www.sunriseseniorliving.com" target="_blank">
-          Sunrise Assisted Living
-      	</a><br />
+        <a href="http://www.sunriseseniorliving.com" target="_blank">Sunrise Assisted Living</a><br />
       	1395 Mass Ave<br />
       	Arlington, MA 02476
       </div>

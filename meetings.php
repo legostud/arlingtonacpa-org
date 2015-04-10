@@ -20,21 +20,21 @@
       (main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please 
       note that meetings marked with an asterisk will be held at an alternate location. 
       Please mark your calendar!<br />
-	  <h3>2014 Meeting Schedule:</h3>
-	  <p>December 12th</p>
 	  <h3>2015 Meeting Schedule:</h3>
       <p>January 9th</p>
       <p>February 13th</p>
       <p>March 13th</p>
-      <p>April 10th</p>
+      <p>April 10th*</p>
       <p>May 8th</p>
 	  <p>June 12th</p>
       <p>July 10th</p>
 	  <p>August 14th</p>
-      <p>September 11th*</p>
+      <p>September 11th**</p>
 	  <p>October 9th</p>
 	  <p>November 13th</p>
-      <p>December 11th</p>      
+      <p>December 11th</p>
+      <p class="finePrint">* This meeting will be held at the Arlington Senior Center at 27 Maple
+Street, Arlington.</p>      
 	  <p class="finePrint">* this meeting will be held at the
 Sunrise Assisted Living in Arlington at 1395 Massachusetts Ave.  Free
 parking next to the building.</p>
