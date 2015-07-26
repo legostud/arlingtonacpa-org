@@ -120,7 +120,7 @@ function createMarkers(map) {
 <div id="subtitle">Meeting Locations</div>
 		
     <div id="content"> Our Meetings are usually held at the Robbins Library in 
-      Arlington, Ma. with the occasional meeting at the Sunrise Assisted Living or the Jefferson Cutter House.<br />
+      Arlington, Ma. with the occasional meeting at the Arlington Senior Center or Sunrise Assisted Living.<br />
       <br />
       <div class="address"><a href="http://www.robbinslibrary.org" target="_blank">Robbins 
         Library</a><br />

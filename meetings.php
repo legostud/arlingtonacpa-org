@@ -29,15 +29,12 @@
 	  <p>June 12th</p>
       <p>July 10th</p>
 	  <p>August 14th</p>
-      <p>September 11th**</p>
+      <p>September 11th*</p>
 	  <p>October 9th</p>
 	  <p>November 13th</p>
       <p>December 11th</p>
       <p class="finePrint">* This meeting will be held at the Arlington Senior Center at 27 Maple
 Street, Arlington.</p>      
-	  <p class="finePrint">* this meeting will be held at the
-Sunrise Assisted Living in Arlington at 1395 Massachusetts Ave.  Free
-parking next to the building.</p>
     </div>
 	</div>
 </div>
