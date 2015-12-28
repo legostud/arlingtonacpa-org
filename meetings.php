@@ -20,13 +20,12 @@
 			(main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please 
 			note that meetings marked with an asterisk will be held at an alternate location. 
 			Please mark your calendar!<br />
-			<h3>2015 Meeting Schedule:</h3>
-			<p>December 11th</p>
-			<h3>2016 Meeting Schedule:</h3>
-			<p>January 8th</p>
-			<p>February 12th</p>
+			<h3>Meeting Schedule:</h3>
+			<p>January 8th - Guest Speaker: Dr. Ed Bilsky, VP of Research, University of
+New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
+			<p>February 12th - Open Discussion Meeting</p>
 			<p>March 11th</p>
-			<p>April 8th*</p>
+			<p>April 8th</p>
 			<p>May 13th</p>
 			<p>June 10th</p>
 			<p>July 8th</p>
