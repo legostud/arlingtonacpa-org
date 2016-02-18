@@ -24,7 +24,7 @@
 			<p>January 8th - Guest Speaker: Dr. Ed Bilsky, VP of Research, University of
 New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
 			<p>February 12th - Open Discussion Meeting</p>
-			<p>March 11th</p>
+			<p>March 11th - Guest Speaker: David Behrstock Ed.M, Certified Alexander Technique Teacher</p>
 			<p>April 8th</p>
 			<p>May 13th</p>
 			<p>June 10th</p>
