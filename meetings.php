@@ -12,21 +12,21 @@
 <body>
 <div id="background">
 	<div id="mainText">
-		
+
 		<div id="subtitle">Schedule of Meetings</div>
-		
-		<div id="content">We meet the second Friday of every month from 11:00 am to 
-			12:30 pm at the Arlington <a href="http://www.robbinslibrary.org" target="_blank">Robbins 
-			(main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please 
-			note that meetings marked with an asterisk will be held at an alternate location. 
+
+		<div id="content">We meet the second Friday of every month from 11:00 am to
+			12:30 pm at the Arlington <a href="http://www.robbinslibrary.org" target="_blank">Robbins
+			(main) Library</a>, 700 Mass Ave. in the ground floor Community Room. Please
+			note that meetings marked with an asterisk will be held at an alternate location.
 			Please mark your calendar!<br />
 			<h3>Meeting Schedule:</h3>
 			<p>January 8th - Guest Speaker: Dr. Ed Bilsky, VP of Research, University of
 New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
 			<p>February 12th - Open Discussion Meeting</p>
 			<p>March 11th - Guest Speaker: David Behrstock Ed.M, Certified Alexander Technique Teacher</p>
-			<p>April 8th</p>
-			<p>May 13th</p>
+			<p>April 8th – 16 Year Anniversary Cake &amp; Party &amp; Open Discussion</p>
+			<p>May 13th*</p>
 			<p>June 10th</p>
 			<p>July 8th</p>
 			<p>August 12th</p>
@@ -35,7 +35,7 @@ New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
 			<p>November 11th</p>
 			<p>December 9th</p>
 			<p class="finePrint">* This meeting will be held at the Arlington Senior Center at 27 Maple
-Street, Arlington.</p>      
+Street, Arlington.</p>
 		</div>
 	</div>
 </div>
