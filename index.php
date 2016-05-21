@@ -30,7 +30,7 @@ we meet at an alternate location in Arlington.</p>
         offers educational materials and peer support groups. The ACPA is dedicated 
         to raising awareness about issues of living with chronic pain among the 
         healthcare community, policy makers and the public-at-large. </p>
-      <p>You may email us at: <a href="mailto:leader@arlingtonacpa.org">leader@arlingtonacpa.org</a> 
+      <p>You may email us at: <a href="mailto:groupleader@arlingtonacpa.org">groupleader@arlingtonacpa.org</a> 
         or call 781-652-0146 for details </p>
       <p class="finePrint">Disclaimer </p>
       <p class="finePrint">Our Chronic Pain Support Group is run by people with chronic pain who 
