@@ -26,8 +26,8 @@ New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
 			<p>February 12th - Open Discussion Meeting</p>
 			<p>March 11th - Guest Speaker: David Behrstock Ed.M, Certified Alexander Technique Teacher</p>
 			<p>April 8th – 16 Year Anniversary Cake &amp; Party &amp; Open Discussion</p>
-			<p>May 13th*</p>
-			<p>June 10th</p>
+			<p>May 13th* - Open discussion meeting.</p>
+			<p>June 10th - Learning to Live Well within Limits</p>
 			<p>July 8th</p>
 			<p>August 12th</p>
 			<p>September 9th*</p>
