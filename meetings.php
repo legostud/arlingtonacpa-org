@@ -32,10 +32,10 @@ New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
 			<p>August 12th</p>
 			<p>September 9th*</p>
 			<p>October 14th</p>
-			<p>November 11th</p>
+			<p>November 11th**</p>
 			<p>December 9th</p>
-			<p class="finePrint">* This meeting will be held at the Arlington Senior Center at 27 Maple
-Street, Arlington.</p>
+			<p class="finePrint">* This meeting will be held at the Sunrise Assisted Living Center at 1395 Massachusetts Ave, Arlington, MA 02476</p>
+			<p class="finePrint">** TBD</p>
 		</div>
 	</div>
 </div>
