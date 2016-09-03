@@ -28,9 +28,9 @@ New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
 			<p>April 8th – 16 Year Anniversary Cake &amp; Party &amp; Open Discussion</p>
 			<p>May 13th* - Open discussion meeting.</p>
 			<p>June 10th - Learning to Live Well within Limits</p>
-			<p>July 8th</p>
-			<p>August 12th</p>
-			<p>September 9th*</p>
+			<p>July 8th - Summer Open Discussion</p>
+			<p>August 12th - Summer Open Discussion</p>
+			<p>September 9th* - A Conversation with Guest: Felice Freyer, Boston Globe Health Policy Reporter</p>
 			<p>October 14th</p>
 			<p>November 11th**</p>
 			<p>December 9th</p>
