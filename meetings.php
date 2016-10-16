@@ -32,10 +32,10 @@ New England &amp; Director of UNE¹s Center of Excellence in Neuroscience</p>
 			<p>August 12th - Summer Open Discussion</p>
 			<p>September 9th* - A Conversation with Guest: Felice Freyer, Boston Globe Health Policy Reporter</p>
 			<p>October 14th - Guest Speaker: Sally English, Director of Services at the Boston Center for Independent Living</p>
-			<p>November 11th**</p>
-			<p>December 9th</p>
+			<p>November 11th** - Open Discussion Meeting</p>
+			<p>December 9th - Holiday Party &amp; Discussion of Managing the Holidays with Pain</p>
 			<p class="finePrint">* This meeting will be held at the Sunrise Assisted Living Center at 1395 Massachusetts Ave, Arlington, MA 02476</p>
-			<p class="finePrint">** TBD</p>
+			<p class="finePrint">** This meeting will be held at the Arlington Police Building, 112 Mystic Street, Arlingtn in the Community Conference Room on the 2nd floor; building is handicaped accessible</p>
 		</div>
 	</div>
 </div>
