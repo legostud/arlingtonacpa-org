@@ -20,14 +20,14 @@
 			note that meetings marked with an asterisk will be held at an alternate location.  Please mark your calendar!<br />
 			<h3>2017 Meeting Schedule:</h3>
 			<p>January 13th - Guests: Chris Ellinger &amp; True Story Theater, What Sustains Us When We Have Chronic Pain?</p>
-			<p>February 10th - Guest Speaker: Liz Owen, Yoga for Chronic Pain</p>
+			<p>February 10th - CANCELLED due to weather</p>
 			<p>March 10th - Guest Speaker: Sonya Huber, Author of Pain Woman Takes Your Keys &amp; Other Essays from a Nervous System</p>
 			<p>April 14th - 17 Year Anniversary Cake &amp; Party &amp; Open Discussion</p>
 			<p>May 12th - Dr. David Nagel, Author of Needless Suffering: How Society Fails Those With Chronic Pain</p>
 			<p>June 9th - Open Discussion</p>
 			<p>July 14th - Summer Open Discussion</p>
 			<p>August 11th - Summer Open Discussion</p>
-			<p>September 8th</p>
+			<p>September 8th - Guest Speaker: Liz Owen, Yoga for Chronic Pain</p>
 			<p>October 13th</p>
 			<p>November 10th</p>
 			<p>December 8th - Holiday Party &amp; Discussion of Managing the Holidays with Pain</p>

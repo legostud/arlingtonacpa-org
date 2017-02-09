@@ -13,10 +13,12 @@
 	<div id="mainText">
 		<div id="subtitle">About Us</div>
 		
-    <div id="content"> We are a support group for people living with chronic pain in the Boston, MA area and surrounding New England area. 
+    <div id="content"> 
+      <h2>NOTICE: February 10th meeting has been cancelled due to inclement weather</h2> 
+      <p>We are a support group for people living with chronic pain in the Boston, MA area and surrounding New England area. 
 Our group was founded in April, 2000 and has been meeting continuously year round since then.
 Once a month, we meet to discuss the challenges of living with chronic pain and offer support to each other. 
-At our meetings, we can also hear updates on research and therapies from physicians and other professionals in the area. 
+At our meetings, we can also hear updates on research and therapies from physicians and other professionals in the area. </p>
       <p>Our mission is to provide a safe place where people with chronic pain 
         can support one another, develop friendships, share ideas and thoughts, 
         obtain information about their condition from professionals and each other, 
