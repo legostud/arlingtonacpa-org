@@ -12,3 +12,5 @@
 /db/*.sqlite3
 
 >>>>>>> 150e674f2bf85fcf557613e4157b47ef2fedffac
+
+web\.config
