@@ -1,8 +1,7 @@
 (function(window,document,undefined) {
-
   // only run this code if there is a google map component on the page
   var gMapEl = document.querySelector('.js-google-map');
-  
+
   if(typeof gMapEl === 'undefined'){
     return;
   }
@@ -48,7 +47,7 @@
         infoWindow.open(map, marker);
       });
 
-      marker.showInfo = () => {
+      marker.showInfo = function() {
         infoWindow.open(map, marker);
       }
 
@@ -58,8 +57,9 @@
 
   // load Google's api
   var script = document.createElement('script');
-    script.src = "//maps.googleapis.com/maps/api/js?key=AIzaSyDNDQepPfh0XsEXA0_S2UOFR852dlr1WUg&callback=initMap";
-    document.getElementsByTagName('head')[0].appendChild(script);
+  
+  script.src = "//maps.googleapis.com/maps/api/js?key=AIzaSyDNDQepPfh0XsEXA0_S2UOFR852dlr1WUg&callback=initMap";
+  document.getElementsByTagName('head')[0].appendChild(script);
 
 
 }(window,document));
