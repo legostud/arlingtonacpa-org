@@ -14,6 +14,7 @@
 		<div id="subtitle">About Us</div>
 		
     <div id="content"> 
+      <!-- h2>April 14th Meeting - Time change: 10am - 11:30am Library closes at noon</h2 -->
       <p>We are a support group for people living with chronic pain in the Boston, MA area and surrounding New England area. 
 Our group was founded in April, 2000 and has been meeting continuously year round since then.
 Once a month, we meet to discuss the challenges of living with chronic pain and offer support to each other. 

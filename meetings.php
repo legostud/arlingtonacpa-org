@@ -22,14 +22,15 @@
 			<p>January 13th - Guests: Chris Ellinger &amp; True Story Theater, What Sustains Us When We Have Chronic Pain?</p>
 			<p>February 10th - CANCELLED due to weather</p>
 			<p>March 10th* - Guest Speaker: Sonya Huber, Author of Pain Woman Takes Your Keys &amp; Other Essays from a Nervous System <br /> - This meeting will be held at the Arlington Police Building, 112 Mystic Street, Arlingtn in the Community Conference Room on the 2nd floor</p>
-			<p>April 14th - 17 Year Anniversary Cake &amp; Party &amp; Open Discussion</p>
+			<p>April 14th - 17 Year Anniversary Cake &amp; Party &amp; Open Discussion<br />
+			++++Time change: Meeting begins at 10am - 11:30am Library closing at noon++++</p>
 			<p>May 12th - Dr. David Nagel, Author of Needless Suffering: How Society Fails Those With Chronic Pain</p>
 			<p>June 9th - Open Discussion</p>
 			<p>July 14th - Summer Open Discussion</p>
 			<p>August 11th - Summer Open Discussion</p>
 			<p>September 8th - Guest Speaker: Liz Owen, Yoga for Chronic Pain</p>
-			<p>October 13th</p>
-			<p>November 10th</p>
+			<p>October 13th - Guest Speaker: Gianna D’Errico, D.C., Chiropractic for Chronic Pain</p>
+			<p>November 10th - Guest Speaker: Chris Veasley, “Multiple Chronic Pain Conditions Research and Advocacy”</p>
 			<p>December 8th - Holiday Party &amp; Discussion of Managing the Holidays with Pain</p>
 			<!-- p class="finePrint">* This meeting will be held at the Sunrise Assisted Living Center at 1395 Massachusetts Ave, Arlington, MA 02476</p -->
 			<p class="finePrint">* This meeting will be held at the Arlington Police Building, 112 Mystic Street, Arlingtn in the Community Conference Room on the 2nd floor; building is handicaped accessible</p>
