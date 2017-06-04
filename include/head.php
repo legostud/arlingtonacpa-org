@@ -3,7 +3,5 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>American Chronic Pain Association - Arlington Chapter</title>
-
 <link rel="shortcut icon" href="favicon.ico" >
-<link href="include/acpa.css" rel="stylesheet">
+<link href="include/acpa2.css" rel="stylesheet">
