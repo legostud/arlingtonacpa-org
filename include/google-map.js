@@ -12,23 +12,32 @@
     // get the maps data
     // this could be replaced with an api
     var rawData = googleMapData[0];
-      
+
+    // var initMapData = {
+    //   scrollwheel: false
+    // } 
+    // var mapData = Object.assign({}, rawData.map, initMapData);
+
     // *** Create the Map *** //
     // map defaults
-    var initMapData = {
-      scrollwheel: false
-    }
+    var mapData = rawData.map;
+    mapData.scrollwheel = false;
 
     // create map Data by combining the rawData with the defaults
-    var mapData = Object.assign({}, rawData.map, initMapData);
-
     var map = new google.maps.Map(gMapEl, mapData);
 
     var markers = [];
 
     // *** Add Markers with popups *** //
     rawData.markers.forEach(function(d,i){
-      var markerData = Object.assign({map},d);
+      var markerData = {};
+
+      markerData.infoWindow = d.infoWindow;
+      markerData.position = d.position;
+      markerData.label = d.label;
+      markerData.map = map;
+
+      // var markerData = Object.assign({map},d);
 
       var marker =  new google.maps.Marker(markerData);
 

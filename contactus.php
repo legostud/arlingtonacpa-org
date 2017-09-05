@@ -1,39 +1,35 @@
-<?php echo "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?".">"; ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
-<title>American Chronic Pain Association - Boston Chapter</title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-
-<link rel="shortcut icon" href="favicon.ico" >
-<link href="include/acpa.css" rel="stylesheet" type="text/css">
-
+  <title>Contact us - Chronic Pain Support Group, Arlington, MA</title>
+  <?php include './include/head.php' ?>
 </head>
 <body>
-<div id="background">
-	<div id="mainText">
-		
-<div id="subtitle">Contact us</div>
-		
-    <div id="content"> 
-      <p><em><strong>Group Leader</strong>: Cindy Steinberg, <a href="mailto:groupleader@arlingtonacpa.org">groupleader@arlingtonacpa.org</a></em></p>
-<p><br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-Website designed by: <a href="http://www.leedscarroll.com/" target="_blank">Marion Leeds Carroll</a><br />
-	Website bulit and hosted by:
-<a href="http://www.jonathandallas.com" target="_blank">Jonathan Dallas</a></p>
-</div>
-	</div>
-</div>
-<?php include ('include/acpa.php'); ?>
+  <?php include './include/header.php' ?>
+  <main class="main">
+    <div class="main__nav">
+      <?php include './include/main-nav.php' ?>
+    </div>
+    <section class="main__content" id="main-content">
+      <div class="main__title"><h1>Contact us</h1></div>
+      <div class="main__text rich-text">
+        <p><em><strong>Group Leader</strong>: Cindy Steinberg, <a href="mailto:groupleader@arlingtonacpa.org">groupleader@arlingtonacpa.org</a></em></p>
+        <p><br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Website designed by: <a href="http://www.leedscarroll.com/" target="_blank">Marion Leeds Carroll</a><br />
+        Website bulit and hosted by: <a href="http://www.jonathandallas.com" target="_blank">Jonathan Dallas</a></p>      
+      </div>
+    </section>
+  </main>
+  <?php include './include/foot.php' ?>
 </body>
 </html>

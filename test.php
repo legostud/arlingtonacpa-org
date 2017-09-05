@@ -13,7 +13,7 @@
     <section class="main__content" id="main-content">
       <div class="main__title"><h1>Meeting Locations</h1></div>
       <div class="main__text rich-text">
-        <p>Our Meetings are usually held at the Robbins Library in Arlington, Ma. with the occasional meeting at the Arlington Senior Center or Sunrise Assisted Living alternate location in Arlington.</p>
+        <p>Our Meetings are usually held at the Robbins Library in Arlington, Ma. with the occasional meeting at the Arlington Senior Center or Sunrise Assisted Living.</p>
       </div>
       <div class="locations">
         <div class="locations__address">
@@ -37,9 +37,9 @@
           Arlington, MA 02476
         </div>
         <div class="locations__address">
-          <a href="http://www.stpaularlington.org/" target="_blank">St Paul Lutheran Church</a><br />
-          929 Concord Turnpike<br />
-          Arlington, MA 02476
+          <a href="http://www.arlingtonma.gov/departments/police\" target=\"_blank\">Arlington Police Building</a><br />
+          112 Mystic Street<br />
+          Arlington, MA 02474
         </div>
       </div>
 
@@ -117,28 +117,16 @@
             //     address: "27 Maple Street<br />Arlington, MA 02476"
             //   }
             // },
-            // {
-            //   position: {
-            //     lat: 42.419428, 
-            //     lng: -71.152037 
-            //   },
-            //   label: "P", // single character only
-            //   infoWindow: {
-            //     name: "Arlington Police Building",
-            //     link: "http://www.arlingtonma.gov/departments/police",
-            //     address: "112 Mystic Street<br />Arlington, MA 02474"
-            //   }
-            // }
             {
               position: {
-                lat: 42.413799, 
-                lng: -71.186409 
+                lat: 42.419428, 
+                lng: -71.152037 
               },
               label: "P", // single character only
               infoWindow: {
-                name: "St Paul Lutheran Church",
-                link: "http://www.stpaularlington.org/",
-                address: "929 Concord Turnpike<br />Arlington, MA 02476"
+                name: "Arlington Police Building",
+                link: "http://www.arlingtonma.gov/departments/police",
+                address: "112 Mystic Street<br />Arlington, MA 02474"
               }
             }
           ]
