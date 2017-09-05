@@ -1,6 +1,6 @@
 <a href="#main-content" class="skip-nav visually-hidden">skip navigation</a>
 <input type="checkbox" class="visually-hidden open-menu__controls" id="open-menu" />
-<label tabindex="1" for="open-menu" class="open-menu__label" aria-label="show or hide main navigation">
+<label for="open-menu" class="open-menu__label" aria-label="show or hide main navigation">
   <div class="hamburger">
     <div class="hamburger__inner"></div>
   </div> 

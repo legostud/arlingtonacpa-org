@@ -5,6 +5,9 @@
   margin-top: 0;
 }
 
+*:focus {
+  outline: #336699 auto 2px;
+}
 
 body {
   color: #333;
@@ -262,7 +265,7 @@ h3 {
 }
 
 .open-menu__controls:focus + .open-menu__label {
-  border: 2px solid Highlight;
+  outline: #336699 auto 2px;
 }
 
 .hamburger {
@@ -326,14 +329,6 @@ h3 {
   transform: rotate(-90deg);
 }
 
-
-@media (-webkit-min-device-pixel-ratio:0) {
-  .open-menu__controls:focus + .open-menu__label {
-    border: none;
-    outline: -webkit-focus-ring-color auto 5px;
-  }
-}
-
 @media (max-width: 899px) {
   .main-nav {
     display: none;
@@ -345,6 +340,7 @@ h3 {
 }
 
 @media (min-width: 900px) {
+  .open-menu__controls,
   .open-menu__label {
     display: none;
   }
