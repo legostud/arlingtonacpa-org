@@ -13,7 +13,7 @@
     <section class="main__content" id="main-content">
       <div class="main__title"><h1>Contact us</h1></div>
       <div class="main__text rich-text">
-        <p><em><strong>Group Leader</strong>: Cindy Steinberg, <a href="mailto:groupleader@arlingtonacpa.org">groupleader@arlingtonacpa.org</a></em></p>
+        <p><em><strong>Group Leader</strong>: Cindy Steinberg, <a href="mailto:groupleader@chronicpainsupportboston.org">groupleader@chronicpainsupportboston.org</a></em></p>
         <p><br />
         <br />
         <br />
