@@ -59,8 +59,8 @@
           markers: [
             {
               position: {
-                lat: 42.416169, 
-                lng: -71.155983 
+                lat: 42.415762, 
+                lng: -71.154967 
               },
               label: "R", // single character only
               infoWindow: {
@@ -95,8 +95,8 @@
             // },
             {
               position: {
-                lat: 42.424595, 
-                lng: -71.184024 
+                lat: 42.425019, 
+                lng: -71.186169 
               },
               label: "S", // single character only
               infoWindow: {
@@ -130,9 +130,9 @@
             //   }
             // }
             {
-              position: {
-                lat: 42.413799, 
-                lng: -71.186409 
+              position: { 
+                lat: 42.413139, 
+                lng: -71.186365 
               },
               label: "P", // single character only
               infoWindow: {
