@@ -13,7 +13,7 @@
     <section class="main__content" id="main-content">
       <div class="main__title"><h1>Meeting Locations</h1></div>
       <div class="main__text rich-text">
-        <p>Our Meetings are usually held at the Robbins Library in Arlington, Ma. with the occasional meeting at the Arlington Senior Center or Sunrise Assisted Living alternate location in Arlington.</p>
+        <p>Our Meetings are usually held at the Robbins Library in Arlington, Ma. with an occasional meeting at one of the alternate locations listed.  See <a href="meetings.php">Schedule of Meetings</a> page for details</p>
       </div>
       <div class="locations">
         <div class="locations__address">
