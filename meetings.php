@@ -22,8 +22,8 @@
         <p><b>April 12</b></p>
         <p><b>May 10</b></p>
         <p><b>June 14</b></p>
-        <p><b>July 12</b></p>
-        <p><b>August 9</b></p>
+        <p><b>July 12*</b></p>
+        <p><b>August 9*</b></p>
         <p><b>September 13*</b></p>
         <p><b>October 11</b></p>
         <p><b>November 8</b></p>
