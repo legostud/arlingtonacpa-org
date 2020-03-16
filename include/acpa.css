@@ -4,7 +4,7 @@ body {
 	font-size: 0.9em;
 	background-color: #FCFAF3;
 }
-H3 {
+h3 {
 	font-size: 1.1em;
 	font-weight: normal;
 	font-style: oblique;
@@ -83,4 +83,4 @@ a:hover { color: #C67A2F; }
 	text-align:right;
 	float:left;
 	clear:both;
-}	
+}

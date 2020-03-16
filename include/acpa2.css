@@ -24,12 +24,12 @@ body {
   }
 }
 
-a { 
-  color: #336699; 
+a {
+  color: #336699;
 }
 
-a:hover { 
-  color: #C67A2F; 
+a:hover {
+  color: #C67A2F;
 }
 
 h3 {
@@ -40,11 +40,11 @@ h3 {
 }
 
 .visually-hidden {
-  position: absolute; 
-  overflow: hidden; 
-  clip: rect(0 0 0 0); 
-  height: 1px; width: 1px; 
-  margin: -1px; padding: 0; border: 0; 
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px; width: 1px;
+  margin: -1px; padding: 0; border: 0;
 }
 
 
@@ -62,8 +62,14 @@ h3 {
 
 @media (min-width: 600px) {
   .header__container {
+    display: flex;
+    align-items: center;
     padding: 0 30px;
   }
+}
+
+@media (max-width: 899px) {
+  flex-wrap: wrap;
 }
 
 @media (min-width: 900px) {
@@ -72,11 +78,40 @@ h3 {
   }
 }
 
-.logo {
+.header__title {
+  flex-basis: 300px;
+  flex-grow: 1;
+  flex-shrink: 0;
+  font-size: 0;
+  max-width: 410px;
+  padding-right: 20px;
+}
+
+.header__title a {
+  background-image: linear-gradient(0deg, currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 0 3px;
+  color: black;
+  font-size: 24px;
+  text-decoration: none;
+  transition: background 500ms ease;
+}
+
+.header__title a:hover {
+  color: black;
+  background-size: 100% 3px;
+}
+
+.header__logo {
   background-color: #FCFAF3;
   display: inline-block;
+  flex-basis: 400px;
+  flex-grow: 0;
+  flex-shrink: 1;
   font-size: 0;
   margin: 0 10px 10px 0;
+  min-width: 320px;
   padding: 5px;
   position: relative;
   vertical-align: bottom;
@@ -86,12 +121,12 @@ h3 {
   display: block;
 }
 
-.logo img {
+.header__logo img {
   height: auto;
   max-width: 100%;
 }
 
-.logo__subtext {
+.header__logo-subtext {
   color: #75603C;
   font-size: small;
   font-style: italic;
@@ -100,7 +135,7 @@ h3 {
     top: 64%;
     left: 23%;}
 
-.logo__subtext:hover {
+.header__logo-subtext:hover {
   color: #75603C;
 }
 
@@ -276,8 +311,8 @@ h3 {
   width: 40px;
 }
 
-.hamburger__inner, 
-.hamburger__inner:after, 
+.hamburger__inner,
+.hamburger__inner:after,
 .hamburger__inner:before {
   background-color: #fff;
   border-radius: 4px;
@@ -295,7 +330,7 @@ h3 {
   margin-top: -2px;
 }
 
-.hamburger__inner:after, 
+.hamburger__inner:after,
 .hamburger__inner:before {
   content: "";
   display: block;
@@ -332,7 +367,7 @@ h3 {
 @media (max-width: 899px) {
   .main-nav {
     display: none;
-  }  
+  }
 
   .open-menu__controls:checked ~ .main-nav {
     display:block;
