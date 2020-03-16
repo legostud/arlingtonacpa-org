@@ -30,8 +30,7 @@
         <p><b>December 13</b></p>
 
         <!-- p class="finePrint">* This meeting will be held at the Sunrise Assisted Living Center at 1395 Massachusetts Ave, Arlington, MA 02476</p -->
-        <!-- <small class="finePrint">* This meeting will be held at the St Paul Lutheran Church in Arlington. Please see the <a href="directions.php">Meetings Location Page</a> for directions.</small> -->
-        <small class="finePrint">* This meeting will be held at an alternate location in Arlington.</small>
+        <small class="finePrint">* This meeting will be held at the St Paul Lutheran Church in Arlington. Please see the <a href="directions.php">Meetings Location Page</a> for directions.</small>
       </div>
     </section>
   </main>
