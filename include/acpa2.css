@@ -64,12 +64,15 @@ h3 {
   .header__container {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     padding: 0 30px;
   }
 }
 
 @media (max-width: 899px) {
-  flex-wrap: wrap;
+  .header__container {
+    flex-wrap: wrap;
+  }
 }
 
 @media (min-width: 900px) {
@@ -103,48 +106,28 @@ h3 {
   background-size: 100% 3px;
 }
 
-.header__logo {
-  background-color: #FCFAF3;
-  display: inline-block;
-  flex-basis: 400px;
+.header__affiliates {
+  flex-basis: auto;
   flex-grow: 0;
   flex-shrink: 1;
-  font-size: 0;
-  margin: 0 10px 10px 0;
-  min-width: 320px;
-  padding: 5px;
-  position: relative;
-  vertical-align: bottom;
 }
 
-.logo a {
-  display: block;
+.header__affiliate-label {
+  font-size: 14px;
 }
 
-.header__logo img {
+.header__logo {
+  display: inline-block;
+  margin: 10px 10px 0 0;
+  vertical-align: center;
   height: auto;
   max-width: 100%;
 }
 
-.header__logo-subtext {
-  color: #75603C;
-  font-size: small;
-  font-style: italic;
-  font-weight: 400;
-  position: absolute;
-    top: 64%;
-    left: 23%;}
-
-.header__logo-subtext:hover {
-  color: #75603C;
-}
-
-.logo2 {
-  display: inline-block;
-  margin: 0 10px 10px 0;
-  max-height: 53px;
-  vertical-align: bottom;
-  width: auto;
+.header__logo:nth-child(2) {
+  background-color: #FCFAF3;
+  min-width: 320px;
+  padding: 5px;
 }
 
 .main {

@@ -19,7 +19,7 @@
         <p><b>January 10</b></p>
         <p><b>February 14</b></p>
         <p><b>March 13</b></p>
-        <p><b>April 10*</b></p>
+        <p><b>April 10+</b></p>
         <p><b>May 8</b></p>
         <p><b>June 12</b></p>
         <p><b>July 10*</b></p>
@@ -31,7 +31,12 @@
 
         <!-- p class="finePrint">* This meeting will be held at the Sunrise Assisted Living Center at 1395 Massachusetts Ave, Arlington, MA 02476</p -->
         <!-- <small class="finePrint">* This meeting will be held at the St Paul Lutheran Church in Arlington. Please see the <a href="directions.php">Meetings Location Page</a> for directions.</small> -->
-        <small class="finePrint">* This meeting will be held at an alternate location in Arlington.</small>
+        <div>
+          <small class="finePrint">+ This meeting will begin at 10am and go until 11:30am.  This is Good Friday and the library is closing at noon.</small>
+        </div>
+        <div>
+          <small class="finePrint">* This meeting will be held at an alternate location in Arlington.</small>
+        </div>
       </div>
     </section>
   </main>
