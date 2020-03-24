@@ -32,11 +32,16 @@ a:hover {
   color: #C67A2F;
 }
 
+.h3,
 h3 {
   font-size: 1.1em;
   font-weight: normal;
   font-style: oblique;
   color: #75603C;
+}
+
+.alert-text {
+  color: red;
 }
 
 .visually-hidden {

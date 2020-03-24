@@ -14,15 +14,17 @@
       <div class="main__title"><h1>Schedule of Meetings</h1></div>
       <div class="main__text rich-text">
         <p>We meet the second Friday of every month from 11:00am to 12:30pm with an optional 12:30pm to 1:30pm social hour at the Arlington <a href="http://www.robbinslibrary.org" target="_blank">Robbins (main) Library</a>, 700 Mass Ave. in the ground floor Community Room.  Please note that meetings marked with an asterisk will be held at an alternate location.  Please mark your calendar!</p>
-        <p>&nbsp;</p>
-        <h3>2020 Meeting Schedule:</h3>
+        <p class="alert-text">
+          During the COVID-19 pandemic, we will meet virtually.  Please e-mail the leader for details.
+        </p>
+        <h2 class="h3">2020 Meeting Schedule:</h2>
         <p><b>January 10</b></p>
         <p><b>February 14</b></p>
         <p><b>March 13</b></p>
         <p><b>April 10+</b></p>
         <p><b>May 8</b></p>
         <p><b>June 12</b></p>
-        <p><b>July 10*</b></p>
+        <p><b>July 10</b></p>
         <p><b>August 14</b></p>
         <p><b>September 11*</b></p>
         <p><b>October 9</b></p>

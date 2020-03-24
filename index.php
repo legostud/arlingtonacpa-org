@@ -18,15 +18,18 @@
         <p>Our mission is to provide a safe place where people with chronic pain can support one another, develop friendships, share ideas and thoughts, obtain information about their condition from professionals and each other, and learn coping skills in a nonjudgmental and caring atmosphere.</p>
         <p>Our meetings are free and open to anyone living with chronic pain. We meet at Robbins Library in Arlington, MA on the second Friday of the month, from 11:00am to 12:30pm. When that location is unavailable, we meet at an alternate location in Arlington.</p>
         <p>We are affiliated with the US Pain Foundation, which is a national, non-profit organization that offers educational materials, support groups, and advocacy for people living with pain and their families and caregivers.  Our group and this national group helps individuals living with chronic pain find connection, hope and inspiration, and are dedicated to raising awareness about issues of living with chronic pain among the healthcare community, policy makers and the public-at-large.</p>
-        <p>You may email us at: <a class="link link--mailto" href="mailto:groupleader@chronicpainsupportboston.org">groupleader@chronicpainsupportboston.org</a> or call <a class="link link--phone" href="+17816520146">781-652-0146</a> for details </p>
+        <p>You may email us at: <a class="link link--mailto" href="mailto:groupleader@chronicpainsupportboston.org">groupleader@chronicpainsupportboston.org</a> or call <a class="link link--phone" href="+17816520146">781-652-0146.</a></p>
+        <p class="alert-text">
+          During the COVID-19 pandemic, we will meet virtually.  Please e-mail the leader for details.
+        </p>
         <small>
           <h3>Disclaimer</h3>
-          <p>Our Chronic Pain Support Group is run by people with chronic pain who 
-            volunteer their services. The group offers encouragement and information. 
-            We are not medical professionals and do not make any representations, 
-            warranties, or assurances as to the accuracy or completeness of the information 
-            provided. We shall not be liable for any damages or injury resulting from 
-            your access to this Internet site or from your reliance on any information 
+          <p>Our Chronic Pain Support Group is run by people with chronic pain who
+            volunteer their services. The group offers encouragement and information.
+            We are not medical professionals and do not make any representations,
+            warranties, or assurances as to the accuracy or completeness of the information
+            provided. We shall not be liable for any damages or injury resulting from
+            your access to this Internet site or from your reliance on any information
             provided at this Internet site.
           </p>
         </small>
