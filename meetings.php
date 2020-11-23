@@ -13,32 +13,37 @@
     <section class="main__content" id="main-content">
       <div class="main__title"><h1>Schedule of Meetings</h1></div>
       <div class="main__text rich-text">
-        <p>We meet the second Friday of every month from 11:00am to 12:30pm with an optional 12:30pm to 1:30pm social hour at the Arlington <a href="http://www.robbinslibrary.org" target="_blank">Robbins (main) Library</a>, 700 Mass Ave. in the ground floor Community Room.  Please note that meetings marked with an asterisk will be held at an alternate location.  Please mark your calendar!</p>
+        <p>We meet the second Friday of every month from 11:00am to 12:30pm with an optional 12:30pm to 1:30pm social hour at the Arlington <a href="http://www.robbinslibrary.org" target="_blank">Robbins (main) Library</a>, 700 Mass Ave. in the ground floor Community Room.  Please mark your calendar!</p>
+        <!-- p>We meet the second Friday of every month from 11:00am to 12:30pm with an optional 12:30pm to 1:30pm social hour at the Arlington <a href="http://www.robbinslibrary.org" target="_blank">Robbins (main) Library</a>, 700 Mass Ave. in the ground floor Community Room.  Please note that meetings marked with an asterisk will be held at an alternate location.  Please mark your calendar!</p -->
         <p class="alert-text">
-          During the COVID-19 pandemic, we will meet virtually.  Please e-mail the leader for details.
+          During the COVID-19 pandemic, we will meet virtually using Zoom.  Please e-mail the leader for details.
         </p>
         <h2 class="h3">2020 Meeting Schedule:</h2>
-        <p><b>January 10</b></p>
-        <p><b>February 14</b></p>
-        <p><b>March 13</b></p>
-        <p><b>April 10+</b></p>
-        <p><b>May 8</b></p>
-        <p><b>June 12</b></p>
-        <p><b>July 10</b></p>
-        <p><b>August 14</b></p>
-        <p><b>September 11*</b></p>
-        <p><b>October 9</b></p>
-        <p><b>November 13</b></p>
         <p><b>December 11</b></p>
+        <p>
+        </p>
+        <h2 class="h3">2021 Meeting Schedule:</h2>
+        <p><b>January 8</b></p>
+        <p><b>February 12</b></p>
+        <p><b>March 12</b></p>
+        <p><b>April 9</b></p>
+        <p><b>May 14</b></p>
+        <p><b>June 11</b></p>
+        <p><b>July 9</b></p>
+        <p><b>August 13</b></p>
+        <p><b>September 10</b></p>
+        <p><b>October 8</b></p>
+        <p><b>November 12</b></p>
+        <p><b>December 10</b></p>
 
         <!-- p class="finePrint">* This meeting will be held at the Sunrise Assisted Living Center at 1395 Massachusetts Ave, Arlington, MA 02476</p -->
         <!-- <small class="finePrint">* This meeting will be held at the St Paul Lutheran Church in Arlington. Please see the <a href="directions.php">Meetings Location Page</a> for directions.</small> -->
-        <div>
+        <!-- div>
           <small class="finePrint">+ This meeting will begin at 10am and go until 11:30am.  This is Good Friday and the library is closing at noon.</small>
-        </div>
-        <div>
+        </div -->
+        <!-- div>
           <small class="finePrint">* This meeting will be held at an alternate location in Arlington.</small>
-        </div>
+        </div -->
       </div>
     </section>
   </main>
