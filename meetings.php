@@ -18,23 +18,19 @@
         <p class="alert-text">
           During the COVID-19 pandemic, we will meet virtually using Zoom.  Please e-mail the leader for details.
         </p>
-        <h2 class="h3">2020 Meeting Schedule:</h2>
-        <p><b>December 11</b></p>
-        <p>
-        </p>
-        <h2 class="h3">2021 Meeting Schedule:</h2>
-        <p><b>January 8</b></p>
+        <h2 class="h3">2022 Meeting Schedule:</h2>
+        <p><b>January 14</b></p>
         <p><b>February 12</b></p>
-        <p><b>March 12</b></p>
-        <p><b>April 9</b></p>
-        <p><b>May 14</b></p>
-        <p><b>June 11</b></p>
-        <p><b>July 9</b></p>
-        <p><b>August 13</b></p>
-        <p><b>September 10</b></p>
-        <p><b>October 8</b></p>
-        <p><b>November 12</b></p>
-        <p><b>December 10</b></p>
+        <p><b>March 11</b></p>
+        <p><b>April 8</b></p>
+        <p><b>May 13</b></p>
+        <p><b>June 10</b></p>
+        <p><b>July 8</b></p>
+        <p><b>August 12</b></p>
+        <p><b>September 9</b></p>
+        <p><b>October 14</b></p>
+        <p><b>November 11</b></p>
+        <p><b>December 9</b></p>
 
         <!-- p class="finePrint">* This meeting will be held at the Sunrise Assisted Living Center at 1395 Massachusetts Ave, Arlington, MA 02476</p -->
         <!-- <small class="finePrint">* This meeting will be held at the St Paul Lutheran Church in Arlington. Please see the <a href="directions.php">Meetings Location Page</a> for directions.</small> -->
