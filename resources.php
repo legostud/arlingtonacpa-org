@@ -13,15 +13,10 @@
     <section class="main__content" id="main-content">
       <div class="main__title"><h1>Resources</h1></div>
       <div class="main__text rich-text">
-        <p><a href="http://www.theacpa.org/" target="_blank">American Chronic Pain Association</a></p>
-        <p><a href="http://www.masspaininitiative.org" target="_blank">Massachusetts Pain Initiative</a></p>
         <p><a href="http://uspainfoundation.org" target="_blank">US Pain Foundation</a></p>
+        <p><a href="http://www.masspaininitiative.org" target="_blank">Massachusetts Pain Initiative</a></p>
         <p><a href="http://aspmn.org" target="_blank">American Society for Pain Management Nursing</a></p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
+        <p><a href="http://www.theacpa.org/" target="_blank">American Chronic Pain Association</a></p>
       </div>
     </section>
   </main>
