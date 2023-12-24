@@ -7,7 +7,6 @@
       <div class="header__affiliate-label">
         Affiliated with
       </div>
-      <img class="header__logo" src="image/ACPA_logo.gif" alt="American Chronic Pain Association" border="0" />
       <img class="header__logo" height="53" width="146" src="image/us_pain_logo.jpg" alt="US Pain" />
     </div>
   </div>

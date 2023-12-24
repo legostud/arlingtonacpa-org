@@ -129,12 +129,6 @@ h3 {
   max-width: 100%;
 }
 
-.header__logo:nth-child(2) {
-  background-color: #FCFAF3;
-  min-width: 320px;
-  padding: 5px;
-}
-
 .main {
   margin: 0 auto;
   max-width: 1200px;
