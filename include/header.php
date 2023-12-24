@@ -1,4 +1,5 @@
 <header class="header">
+  <a href="#main-content" class="skip-nav visually-hidden">skip navigation</a>
   <div class="header__container">
     <h1 class="header__title">
       <a href="index.php">Chronic Pain Support Group<br />Arlington, MA</a>
