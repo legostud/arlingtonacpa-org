@@ -13,21 +13,20 @@
     <section class="main__content" id="main-content">
       <div class="main__title"><h1>Schedule of Meetings</h1></div>
       <div class="main__text rich-text">
-        <p>We meet the second Friday of every month from 11:00am to 12:30pm.</p>
-        <p>We changed our meetings to virtual during the pandemic and for the foreseeable future.  Please email the leader at <a href="mailto:groupleader@chronicpainsupportboston.org">groupleader@chronicpainsupportboston.org</a> for details.  Please mark your calendar!</p>
-        <h2 class="h3">2023 Meeting Schedule:</h2>
-        <p><b>January 13</b></p>
-        <p><b>February 10</b></p>
-        <p><b>March 10</b></p>
-        <p><b>April 14</b></p>
-        <p><b>May 12</b></p>
-        <p><b>June 9</b></p>
-        <p><b>July 14</b></p>
-        <p><b>August 11</b></p>
-        <p><b>September 8</b></p>
-        <p><b>October 13</b></p>
-        <p><b>November 10</b></p>
-        <p><b>December 8</b></p>
+        <p>We meet virtually the second Friday of every month from 11:00am to 12:30pm EST. Please email the leader at <a href="mailto:groupleader@chronicpainsupportboston.org">groupleader@chronicpainsupportboston.org</a> for details.</p>
+        <h2 class="h3">Meeting Dates in 2024 are as follows:</h2>
+        <p><strong>January 12th</strong></p>
+        <p><strong>February 9th</strong></p>
+        <p><strong>March 8th</strong></p>
+        <p><strong>April 12th</strong></p>
+        <p><strong>May 10th</strong></p>
+        <p><strong>June 14th</strong></p>
+        <p><strong>July 12th</strong></p>
+        <p><strong>August 9th</strong></p>
+        <p><strong>September 13th</strong></p>
+        <p><strong>October 11th</strong></p>
+        <p><strong>November 8th</strong></p>
+        <p><strong>December 13th</strong></p>
       </div>
     </section>
   </main>
