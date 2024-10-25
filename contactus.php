@@ -13,6 +13,7 @@
     <section class="main__content" id="main-content">
       <div class="main__title"><h1>Contact us</h1></div>
       <div class="main__text rich-text">
+        <p>For questions or to obtain the virtual link.</p>
         <p><em><strong>Group Leader</strong>: Cindy Steinberg, <a href="mailto:groupleader@chronicpainsupportboston.org">groupleader@chronicpainsupportboston.org</a></em></p>
         <p><br />
         <br />
